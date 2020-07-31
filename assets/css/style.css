@@ -162,7 +162,7 @@ td,th{
   }
   td:before{
       position: absolute;
-      top: 10px;
+      top: 4px;
       left: 6px;
       width: 30%;
       padding-right: 10px;
@@ -171,9 +171,9 @@ td,th{
   td:nth-of-type(1):before{font-weight: bold; text-align: left; content: "Location";}
   td:nth-of-type(2):before{font-weight: bold; text-align: left; content: "Jamaat_1";}
   td:nth-of-type(3):before{font-weight: bold; text-align: left; content: "Jamaat_2";}
-  td:nth-of-type(4):before{font-weight: bold; text-align: left; content: "Jamaat_3";}
-  td:nth-of-type(5):before{font-weight: bold; text-align: left; content: "Masjid Name";}
-  td:nth-of-type(6):before{font-weight: bold; text-align: left; content: "Prayer Space";}
+  /* td:nth-of-type(4):before{font-weight: bold; text-align: left; content: "Location";} */
+  td:nth-of-type(4):before{font-weight: bold; text-align: left; content: "Masjid Name";}
+  /* td:nth-of-type(6):before{font-weight: bold; text-align: left; content: "Prayer Space";} */
 
 }
 
