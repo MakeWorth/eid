@@ -162,7 +162,7 @@ td,th{
   }
   td:before{
       position: absolute;
-      top: 4px;
+      top: 0px;
       left: 6px;
       width: 30%;
       padding-right: 10px;
